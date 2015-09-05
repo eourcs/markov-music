@@ -6,7 +6,7 @@ Quick and dirty implementation of a computer-music generator using markov chains
 Amount of notes generated can be changed in main.py
 
 
-Input: Trainer file in ABC notation
+Input: Trainer file in ABC notation or (step, beat) notation
 
 Output: Computer-generated music
 
